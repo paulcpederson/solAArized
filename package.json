@@ -1,0 +1,16 @@
+{
+  "name": "solaarized",
+  "version": "0.0.0",
+  "description": "A WCAG 2.0 AA compliant version of the Solarized color theme",
+  "main": "js/solaarized.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/paulcpederson/solAArized.git"
+  },
+  "url": "https://github.com/paulcpederson/solAArized/issues",
+  "author": "Paul C Pederson <paul.c.pederson@gmail.com> (http://paulcpederson.com/)",
+  "license": "ISC"
+}
